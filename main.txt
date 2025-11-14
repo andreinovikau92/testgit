@@ -1,16 +1,1 @@
-line1
-line2
-line3
-line4
-line5
-line6
-line1
-line3
-line4
-dddd
-dddd
-tttt
-qqqq
-1111
-2222
-3333
+added a function
