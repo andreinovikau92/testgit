@@ -1,7 +1,3 @@
 console.log("Hello, World!");
 
-function greet(name) {
-    return `Hello, ${name}!`;
-}
-
-greet("Tania");
+const greet = "hello again";
